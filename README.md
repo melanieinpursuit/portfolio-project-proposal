@@ -26,4 +26,6 @@ The following requirements must be included in your proposal:
 1. **ERD** for your back-end. Only **one** table is required, but you must add all columns that are expected for each entry to your table(what info does an entry have?)
 _For example: a user may have id, name, email, phone_
 
-Your proposal is to be submitted AFTER the Portfolio Project Requirements and Repo have been shared with you in class. Please submit your proposal in a **group message with JD && Carlos** via Slack.
+Your proposal is to be submitted AFTER the Portfolio Project Requirements and Repo have been shared with you in class. 
+
+Please submit your proposal in a **group message with JD && Carlos** via Slack.
