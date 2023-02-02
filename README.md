@@ -15,13 +15,15 @@ This proposal will serve as a starting point for your ideas and plans.
 
 ## Proposal Requirements:
 
-1. An idea-- can be a title w/ a short description
+The following requirements must be included in your proposal:
 
-1. At least **3** user stories for what a user can expect to see/do when using your app
+1. **Topic/Idea** -- can be a title w/ a short description
 
-1. A wireframe for your front-end
+1. **3 User Stories** minimum, describing what a user can expect to see/do when using your application
 
-1. An ERD for your back-end. Only **one** table is required, but you must add the columns that are expected for each entry to your table(what info does an entry have)
+1. **Wireframes** -- a lo-fidelity visual representation of your front-end using whatever tools you choose. (even pencil and paper)
+
+1. **ERD** for your back-end. Only **one** table is required, but you must add all columns that are expected for each entry to your table(what info does an entry have?)
 _For example: a user may have id, name, email, phone_
 
-Your proposal is to be submitted AFTER the Portfolio Project Requirements and Repo have been shared with you in class on **Monday, 2/6** in a **group message with JD && Carlos** via Slack.
+Your proposal is to be submitted AFTER the Portfolio Project Requirements and Repo have been shared with you in class. Please submit your proposal in a **group message with JD && Carlos** via Slack.
