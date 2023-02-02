@@ -6,7 +6,7 @@ We will soon introduce the requirements for your __Personal Portfolio Project__.
 
 Much like in Module 2, you will have the freedom to choose the topic for your application.
 
-This time, you'll create a **Full Stack Applciation** using the PERN stack.
+This time, you'll create a **Full Stack Application** using the PERN stack.
 
 
 This proposal will serve as a starting point for your ideas and plans.
