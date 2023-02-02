@@ -1,7 +1,8 @@
 # Module 4 Portfolio Project Proposal
 
 ## Overview
-**Tommorrow** we introduce the requirements for your Personal Portfolio Project.
+
+We will soon introduce the requirements for your Personal Portfolio Project.
 
 Much like in Module 2, you will have the freedom to choose the topic for your application.
 
