@@ -1,28 +1,31 @@
 # Module 4 Portfolio Project Proposal
 
+## Overview
 
-**Tommorrow** we introduce the requirements for your personal portfolio project.
+We will soon introduce the requirements for your _Personal Portfolio Project_.
 
-Much like in Module 2, you will have the freedom to choose the topic of which your application will be about.
+Much like in Module 2, you will have the freedom to choose the topic for your application.
 
-This time, you'll create a **Full Stack Applciation** using the PERN stack.
+This time, you'll create a **Full Stack Application** using the PERN stack.
 
 
 This proposal will serve as a starting point for your ideas and plans.
 
-You will submit your proposal in order to get approval for your idea. You may start working on your project after being approved by an instructor.
+\*\* **You must submit a proposal and receive approval from an instructor prior to working on your project.**
 
+## Proposal Requirements:
 
-Proposal Requirements:
+The following requirements must be included in your proposal:
 
-- An idea-- can be a title w/ a short description
+1. **Topic/Idea** -- can be a title w/ a short description
 
-- At least **3** user stories for what a user can expect to see/do when using your app
+1. **3 User Stories** minimum, describing what a user can expect to see/do when using your application
 
-- A wireframe for your front end
+1. **Wireframes** -- a lo-fidelity visual representation of your front-end using whatever tools you choose. (even pencil and paper)
 
-- An ERD for your backend. Only **one** table is required, but you must add the columns that are expected for each entry to your table(what info does an entry have)
+1. **ERD** for your back-end. Only **one** table is required, but you must add all columns that are expected for each entry to your table(what info does an entry have?)
 _For example: a user may have id, name, email, phone_
 
+Your proposal is to be submitted AFTER the Portfolio Project Requirements and Repo have been shared with you in class. 
 
-This is to be submitted AFTER the Portfolio Project Requirements and Repo have been shared with you in class on **Tuesday, 2/7** in a **group message with JD && Carlos** via Slack.
+Please submit your proposal in a **group message with JD && Carlos** via Slack.
