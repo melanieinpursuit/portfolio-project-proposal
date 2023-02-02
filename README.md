@@ -2,7 +2,7 @@
 
 ## Overview
 
-We will soon introduce the requirements for your __Personal Portfolio Project__.
+We will soon introduce the requirements for your _Personal Portfolio Project_.
 
 Much like in Module 2, you will have the freedom to choose the topic for your application.
 
