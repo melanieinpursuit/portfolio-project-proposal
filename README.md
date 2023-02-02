@@ -11,7 +11,7 @@ This time, you'll create a **Full Stack Application** using the PERN stack.
 
 This proposal will serve as a starting point for your ideas and plans.
 
-### You must submit a proposal and receive approval from an instructor prior to working on your project.
+/*/* **You must submit a proposal and receive approval from an instructor prior to working on your project.**
 
 ## Proposal Requirements:
 
