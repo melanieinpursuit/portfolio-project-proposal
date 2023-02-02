@@ -1,6 +1,6 @@
 # Module 4 Portfolio Project Proposal
 
-
+## Overview
 **Tommorrow** we introduce the requirements for your Personal Portfolio Project.
 
 Much like in Module 2, you will have the freedom to choose the topic for your application.
@@ -10,9 +10,9 @@ This time, you'll create a **Full Stack Applciation** using the PERN stack.
 
 This proposal will serve as a starting point for your ideas and plans.
 
-**You must submit a proposal and receive approval from an instructor prior to working on your project.**
+### You must submit a proposal and receive approval from an instructor prior to working on your project.
 
-Proposal Requirements:
+## Proposal Requirements:
 
 1. An idea-- can be a title w/ a short description
 
